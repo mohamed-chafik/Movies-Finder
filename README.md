@@ -1,8 +1,18 @@
-# React + Vite
+# Movie Finder 🎬  
+Search for movies by name using the OMDB API.  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 **Live Demo:** [https://your-deployed-link.vercel.app]([https://your-deployed-link.vercel.app](https://moviesfinder-dusky.vercel.app/))  
 
-Currently, two official plugins are available:
+## Features  
+- Search movies by title  
+- View movie details 
+- Responsive design  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Built With  
+- React.js  
+- OMDB API  
+
+## How to Run  
+1. Clone the repo:  
+   ```sh
+   git clone https://github.com/your-username/movie-finder.git
